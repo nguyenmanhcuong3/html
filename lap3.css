@@ -2,6 +2,9 @@
     margin:0px;
     padding:0px;
 }
+body{
+    background-image:url(https://media.vov.vn/sites/default/files/styles/large/public/2023-05/21_catamarca_-_lola_garcia_berro.jpg) ;
+}
 .wrapper{
     max-width:1000px;
     margin:0px auto;
